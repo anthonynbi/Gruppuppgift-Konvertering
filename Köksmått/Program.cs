@@ -22,6 +22,7 @@ namespace Köksmått
             Console.WriteLine(Exempelklass.litertogallon(5));
             Console.WriteLine(Exempelklass.litertopint(5));
 
+            Console.WriteLine("hi boys");
         }
     }
 }
