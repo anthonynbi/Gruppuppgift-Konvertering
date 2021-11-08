@@ -6,15 +6,14 @@ namespace Köksmått
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hej Sebastian");
 
-            Console.WriteLine("Heipa Jonte");
+            //Measuerments.measureList.Add("liter", 1000);
+            //Measuerments.measureList.Add("deciliter", 100);
 
-            Console.WriteLine("Vad gör du?");
-            Console.WriteLine("Funkar det här?");
-            Console.WriteLine("Testar på Mac...");
+            Measurements.InitializeMeasurements();
+            Startmenu.StartProgram();
 
-            Console.WriteLine("Testar en tredje gång eller nåt....");
+
         }
     }
 }

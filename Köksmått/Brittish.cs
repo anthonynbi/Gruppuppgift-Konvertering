@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Köksmått
 {
-    class Exempelklass
+    class Brittish
     {
+
     }
 }
