@@ -8,6 +8,7 @@ namespace Köksmått
         {
             Console.WriteLine("Hej Sebastian");
             Console.WriteLine("Vad gör du?");
+            Console.WriteLine("Funkar det här?");
 
         }
     }
