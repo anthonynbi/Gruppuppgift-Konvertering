@@ -14,7 +14,7 @@ namespace Köksmått
             Console.WriteLine("Funkar det här?");
             Console.WriteLine("Testar på Mac...");
 
-
+            Console.WriteLine("Testar en tredje gång eller nåt....");
         }
     }
 }
