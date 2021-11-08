@@ -13,9 +13,15 @@ namespace Köksmått
             Console.WriteLine("Vad gör du?");
             Console.WriteLine("Funkar det här?");
             Console.WriteLine("Testar på Mac...");
+            Console.WriteLine("hi boys");
 
             Console.WriteLine("Testar en tredje gång eller nåt....");
-            Console.WriteLine(" fjärde gången kilt");
+
+
+            
+            Console.WriteLine(Exempelklass.litertogallon(5));
+            Console.WriteLine(Exempelklass.litertopint(5));
+
         }
     }
 }
