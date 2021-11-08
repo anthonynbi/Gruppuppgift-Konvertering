@@ -6,7 +6,7 @@ namespace Köksmått
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hej Sebastian");
         }
     }
 }
