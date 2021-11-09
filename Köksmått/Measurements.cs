@@ -9,6 +9,7 @@ namespace Köksmått
     class Measurements
 
     {
+
         public static Dictionary<string, double> measureList = new Dictionary<string, double>();
 
         public static void InitializeMeasurements()
